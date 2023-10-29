@@ -1,0 +1,413 @@
+.header1{
+  background-color: black;  
+
+}
+.nav1{
+display: flex;
+align-items: center;
+}
+.img1{
+height: 50px;
+margin-right: 10px;
+}
+.h11{
+margin-right: 500px;
+color: white;
+}
+.button1{
+margin-right: 400px;
+}
+.span1{
+border-right: 1px solid gray;
+width: 20px;
+color: white; 
+padding-right: 10px;
+}
+.span2{
+color: white;
+padding: 5px;
+}
+.section1{
+    display: flex;
+    align-items: center;
+}
+.div1{
+border: 1px solid black;
+width:280px;
+height: 480px;
+}
+.img2{
+height: 200px;
+width: 250px;
+}
+.img3{
+    height: 200px;
+    width: 250px;
+}
+.img4{
+    height: 200px;
+    width: 250px;
+}
+.img5{
+    height: 200px;
+    width: 250px;
+}
+.img6{
+    height: 200px;
+    width: 250px;
+}
+.p11{
+color: red;
+font-size: 30px;
+padding-top: 82px;
+margin-bottom: 60px;
+}
+.btn1{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.div2{
+    border: 1px solid black;
+    width:280px;
+    height: 480px;
+}
+.p21{
+color: gray;
+font-size: 15px;
+}
+.p22{
+color: red;
+font-size: 30px;
+padding-top: 40px;
+margin-bottom: 65px;
+}
+.btn2{
+     color: white;
+     background-color: green;
+     width: 100px;
+     height: 30px;
+     border-radius:10px;
+}
+.div3{
+    border: 1px solid black;
+    width: 280px;
+    height: 480px; 
+}
+.p31{
+    color: gray;
+    font-size: 15px;
+}
+.p32{
+    color: red;
+    font-size: 30px;
+    padding-top:5px;
+margin-bottom: 60px;
+}
+.btn3{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.div4{
+    border: 1px solid black;
+    width: 280px;
+    height: 480px;
+}
+.p41{
+    color: gray;
+    font-size: 15px;
+}
+.p42{
+    color: red;
+    font-size: 30px;
+    padding-top: 25px;
+margin-bottom: 60px;
+}
+.btn4{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.div5{
+    border: 1px solid black;
+    width: 280px;
+    height: 480px;
+}
+.p51{
+    color: red;
+    font-size: 30px;
+    padding-top: 65px;
+margin-bottom: 60px;
+}
+.btn5{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.section2{
+display: flex;
+align-items: center;
+}
+.div6{
+   border: 1px solid black;
+    width: 280px;
+    height: 480px; 
+}
+.img7{
+    height: 200px;
+    width: 250px;
+}
+.p61{
+    color: gray;
+    font-size: 15px;
+}
+.p62{
+    color: red;
+    font-size: 30px;
+    padding-top: 20px;
+margin-bottom: 47px;
+}
+.btn6{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.div7{
+    border: 1px solid black;
+    width: 280px;
+    height: 480px;
+}
+.img8{
+    height: 200px;
+    width: 250px;
+}
+.p71{
+    color: red;
+    font-size: 30px;
+    padding-top: 80px;
+margin-bottom: 45px;
+}
+.btn7{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.div8{
+    border: 1px solid black;
+    width: 280px;
+    height: 480px;
+}
+.img9{
+    height: 200px;
+    width: 250px;
+}
+.p82{
+    color: red;
+    font-size: 30px;
+    padding-top: 80px;
+margin-bottom: 43px;
+}
+.btn8{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px; 
+    border-radius:10px;
+}
+.div9{
+    border: 1px solid black;
+    width: 280px;
+    height: 480px;
+}
+.img10{
+    height: 200px;
+    width: 250px;
+}
+.p91{
+    color: red;
+    font-size: 30px;
+    padding-top: 80px;
+margin-bottom: 45px;
+}
+.btn9{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.div10{
+    border: 1px solid black;
+    width: 280px;
+    height: 480px;
+}
+.img11{
+    height: 200px;
+    width: 250px;
+}
+.p101{
+    color: red;
+    font-size: 30px;
+    padding-top: 80px;
+margin-bottom: 45px;
+}
+.btn10{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.section3{
+display: flex;
+align-items: center;
+}
+.div11{
+  border: 1px solid black;
+    width: 280px;
+    height: 480px;  
+}
+.img12{
+    height: 200px;
+    width: 250px;
+}
+.p111{
+    color: gray;
+    font-size: 15px;
+}
+.p112{
+    color: red;
+    font-size: 30px;
+    padding-top: 50px;
+margin-bottom: 53px;
+}
+.btn11{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.div12{
+    border: 1px solid black;
+    width: 280px;
+    height: 480px;
+}
+.img13{
+    height: 200px;
+    width: 250px;
+}
+.p121{
+    color: gray;
+    font-size: 15px;
+}
+.p122{
+    color: red;
+    font-size: 30px;
+    padding-top: 55px;
+margin-bottom: 48px;
+}
+.btn12{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.div13{
+    border: 1px solid black;
+    width: 280px;
+    height: 480px;
+}
+.img14{
+    height: 200px;
+    width: 250px;
+}
+.p131{
+    color: red;
+    font-size: 30px;
+    padding-top: 76px;
+margin-bottom: 49px;
+}
+.btn13{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.div14{
+    border: 1px solid black;
+    width: 280px;
+    height: 480px;
+}
+.img15{
+    height: 200px;
+    width: 250px;
+}
+.p141{
+    color: red;
+    font-size: 30px;
+    padding-top: 98px;
+margin-bottom: 45px;
+}
+.btn14{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.div15{
+    border: 1px solid black;
+    width: 280px;
+    height: 480px;
+}
+.img16{
+    height: 200px;
+    width: 250px;
+}
+.p151{
+    color: gray;
+    font-size: 15px;
+}
+.p152{
+    color: red;
+    font-size: 30px;
+    padding-top: 40px;
+margin-bottom: 45px;
+}
+.btn15{
+    color: white;
+    background-color: green;
+    width: 100px;
+    height: 30px;
+    border-radius:10px;
+}
+.footer1{
+background-color: green;
+}
+.nav2{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.a1:visited{
+color: black;
+}
+.a2:visited{
+color: black;
+}
